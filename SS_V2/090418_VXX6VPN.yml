@@ -1,0 +1,27 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+secret: ""
+Proxy:
+  - name: V2_VX_ONE05未知
+    type: vmess
+    server: 103.117.101.186
+    port: "17536"
+    uuid: dc5f7e68-452c-4a5c-b7fe-adc5ac3049a3
+    alterId: "64"
+    cipher: auto
+Proxy Group:
+  - name: Proxy
+    type: select
+    proxies:
+      - V2_VX_ONE05未知
+Rule:
+  - DOMAIN-SUFFIX,google.com,Proxy
+  - DOMAIN-KEYWORD,google,Proxy
+  - DOMAIN-SUFFIX,ad.com,REJECT
+  - GEOIP,CN,DIRECT
+  - FINAL,,Proxy
