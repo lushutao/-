@@ -25,9 +25,10 @@ dns:
 
 Proxy:
 #V2ray 系列
-- { name: "VPN🇭🇰_01", type: vmess, server: 103.135.249.3, port: 31144, uuid: 2bf7da83-2e3c-4ceb-b941-134206222c63, alterId: 64, cipher: auto }
+- { name: "VPN🇭🇰_01", type: vmess, server: 103.135.249.3, port: 31144, uuid: 2bf7da83-2e3c-4ceb-b941-134206222c63, alterId: 64, cipher: Auto }
 - { name: "VPN🇭🇰_02", type: vmess, server: 103.135.249.3, port: 30799, uuid: 4957b140-47a3-4a59-852c-b326b9591360, alterId: 64, cipher: Auto }
 - { name: "VPN🇭🇰_03", type: vmess, server: 103.135.249.3, port: 29745, uuid: 48f63b7a-b5c2-4f17-f291-e6f66d5e054c, alterId: 64, cipher: Auto }
+- { name: "VPN🇭🇰_04", type: vmess, server: 103.135.249.3, port: 30169, uuid: 0a6753a0-56ae-4cd1-96e8-753c2b563a11, alterId: 64, cipher: Auto }
 
  #SS 系列
 #- { name: "VPN🇺🇸_03", type: ss, server: 67.230.177.112, port: 29435, cipher: chacha20-ietf-poly1305, password: "XSzdZzqG8W", udp: true }
@@ -37,7 +38,7 @@ Proxy Group:
 # load-balance 可以使相同 eTLD 请求在同一条代理线路上   負載均衡
 # select 用来允许用户手动选择 代理服务器 或 服务器组
 
-- { name: "Proxy", type: select, proxies: ["VPN🇭🇰_01","VPN🇭🇰_02","VPN🇭🇰_03" ,"DIRECT"], url: "http://www.gstatic.com/generate_204", interval: 300 }
+- { name: "Proxy", type: select, proxies: ["VPN🇭🇰_01","VPN🇭🇰_02","VPN🇭🇰_03","VPN🇭🇰_04" ,"DIRECT"], url: "http://www.gstatic.com/generate_204", interval: 300 }
 
 #LST/VPN 自定义系列
  #DomainSuffix：域名后缀匹配
