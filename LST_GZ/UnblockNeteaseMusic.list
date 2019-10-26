@@ -1,3 +1,4 @@
-- DOMAIN-SUFFIX,163.com, UnblockNeteaseMusic
-- DOMAIN-SUFFIX,126.net, UnblockNeteaseMusic
-- DOMAIN-SUFFIX,netease.com, UnblockNeteaseMusic
+＃> UnblockNeteaseMusic
+DOMAIN-SUFFIX,163.com, UnblockNeteaseMusic
+DOMAIN-SUFFIX,126.net, UnblockNeteaseMusic
+DOMAIN-SUFFIX,netease.com, UnblockNeteaseMusic
