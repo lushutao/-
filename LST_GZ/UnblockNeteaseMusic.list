@@ -2,6 +2,3 @@
 DOMAIN-SUFFIX,163.com,UnblockNeteaseMusic
 DOMAIN-SUFFIX,126.net,UnblockNeteaseMusic
 DOMAIN-SUFFIX,netease.com,UnblockNeteaseMusic
-IP-CIDR,59.111.128.0/17,UnblockNeteaseMusic
-IP-CIDR,115.236.112.0/20,UnblockNeteaseMusic
-IP-CIDR,223.252.192.0/19,UnblockNeteaseMusic
