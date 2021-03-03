@@ -1,0 +1,93 @@
+payload:
+- DOMAIN-KEYWORD,ifvod
+- DOMAIN-KEYWORD,teamviewer  #关键字 LST
+- DOMAIN-SUFFIX,courses.edx.org 
+- DOMAIN-SUFFIX,github.com 
+- DOMAIN-SUFFIX,courses.edx.org 
+- DOMAIN-SUFFIX,hanyang.ac.kr 
+- DOMAIN-SUFFIX,au.bbcollab.com 
+- DOMAIN-SUFFIX,learn.hanyang.ac.kr 
+- DOMAIN-KEYWORD,avmoo  #关键字 LST
+- DOMAIN-KEYWORD,sehuatang  #关键字 LST
+- DOMAIN-KEYWORD,javjunkies  #关键字 LST
+- DOMAIN-KEYWORD,teamviewer  #关键字 LST
+- DOMAIN-SUFFIX,ln.sync.com 
+- DOMAIN-SUFFIX,ndc.co.jp 
+- DOMAIN-SUFFIX,2x4.org 
+- DOMAIN-SUFFIX,pentagram.com 
+- DOMAIN-SUFFIX,cas.sfu.ca   #叫我学习
+- DOMAIN-SUFFIX,gradescope.com   #胡祐川
+- DOMAIN-SUFFIX,ucla.edu   #日不想学 汤寻欢
+- DOMAIN-SUFFIX,ucl.ac.uk   #日不想学 汤寻欢
+- DOMAIN-SUFFIX,ev.turnitinuk.com   #日不想学 汤寻欢
+- DOMAIN-SUFFIX,courses.ryerson.ca   #小Q哥
+- DOMAIN-SUFFIX,ryerson.ca.ca   #小Q哥
+- DOMAIN-SUFFIX,erezhyatt.com   #NinN
+- DOMAIN-SUFFIX,keats.kcl.ac.uk   #陈若漪
+- DOMAIN-SUFFIX,straighterline.com   #钱文忠
+- DOMAIN-SUFFIX,moodle.arts.ac.uk   #Narja
+- DOMAIN-SUFFIX,moodle.royalholloway.ac.uk   #·Amy
+- DOMAIN-SUFFIX,ucsb.app.box.com   #·T
+- DOMAIN-SUFFIX,ucsb.account.box.com   #·T
+- DOMAIN-SUFFIX,ortals.veracross.com   #Ceciyxy💕
+- DOMAIN-SUFFIX,uncp.edu   #🍑
+- DOMAIN-SUFFIX,sciemce.com   #🍑
+- DOMAIN-SUFFIX,chegg.com   #🍑
+- DOMAIN-SUFFIX,openvellum.ecollege.com   #🍑
+- DOMAIN-SUFFIX,eu.bbcollab.com   #∞
+- DOMAIN-SUFFIX,kcl.ac.uk   #陈若漪
+- DOMAIN-KEYWORD,lboro  #关键字 老杰
+- DOMAIN-KEYWORD,edina  #关键字 老杰
+- DOMAIN-KEYWORD,ucsb  #关键字 jessi
+- DOMAIN-KEYWORD,coursera  #关键字 jessi
+- DOMAIN-KEYWORD,zoom  #关键字 jessi
+- DOMAIN-KEYWORD,unsplash  #关键字 zzyyyy
+- DOMAIN-KEYWORD,Teams  #关键字 Hetty
+- DOMAIN-KEYWORD,microsoftonline  #关键字 廖思行
+- DOMAIN-KEYWORD,force  #关键字 廖思行
+- DOMAIN-KEYWORD,behance  #关键字 晋
+- DOMAIN-KEYWORD,liveauctioneers  #关键字 ZSJ
+- DOMAIN-KEYWORD,chairish  #关键字 ZSJ
+- DOMAIN-KEYWORD,chinaq  #关键字 Jady
+- DOMAIN-KEYWORD,dailymotion  #关键字 Jady
+- DOMAIN-KEYWORD,lonecapital  #关键字 Mdr-exk
+- DOMAIN-KEYWORD,U5  #关键字 BS潮代
+- DOMAIN-KEYWORD,ifun  #关键字 BS潮代
+- DOMAIN-KEYWORD,iri  #关键字 Marilyn🍬唐瑞禅
+- DOMAIN-KEYWORD,ned  #关键字 Marilyn🍬唐瑞禅
+- DOMAIN-KEYWORD,6park  #关键字 杨金波
+- DOMAIN-KEYWORD,caoyixiao  #关键字 艺小
+- DOMAIN-KEYWORD,mediasite  #关键字 DavidLin林飞帆
+- DOMAIN-KEYWORD,pearsonmylabandmastering  #关键字 DavidLin林飞帆
+- DOMAIN-KEYWORD,pearsoncmg  #关键字 DavidLin林飞帆
+- DOMAIN-KEYWORD,tradingview  #关键字 DavidLin林飞帆
+- DOMAIN-KEYWORD,food4rhino  #关键字 LST
+- DOMAIN-KEYWORD,lrepacks  #关键字 LST
+- DOMAIN-KEYWORD,coursehero  #关键字 Dylan
+- DOMAIN-KEYWORD,att  #关键字 Dylan
+- DOMAIN-KEYWORD,edu  #关键字 BerBer🙃🙂
+- DOMAIN-KEYWORD,adobe  #关键字 LST
+- DOMAIN-KEYWORD,v2rayssr  #关键字 LST
+- DOMAIN-KEYWORD,zybooks  #关键字 Dylan
+- DOMAIN-KEYWORD,nyu  #关键字 Wendy
+- DOMAIN-KEYWORD,burg-halle  #关键字 CN
+- DOMAIN-KEYWORD,campus.burg-halle  #关键字 CN
+- DOMAIN-KEYWORD,archicage  #关键字 CN
+- DOMAIN-KEYWORD,uncp  #关键字 公共
+- DOMAIN-KEYWORD,zoom  #关键字 myusf
+- DOMAIN-KEYWORD,microsoftstream  #关键字 钱文忠
+- DOMAIN-KEYWORD,microsoft  #关键字 钱文忠
+- DOMAIN-KEYWORD,tva  #关键字 钱文忠
+- DOMAIN-KEYWORD,jquery  #关键字 钱文忠
+- DOMAIN-KEYWORD,brainpop  #关键字 Mandy贾
+- DOMAIN-KEYWORD,uncp  #关键字 寒央
+- DOMAIN-KEYWORD,mytimetable  #关键字 浮起来
+- DOMAIN-KEYWORD,ac  #关键字 浮起来
+- DOMAIN-KEYWORD,planetestream  #关键字 Kevin^_^
+- DOMAIN-KEYWORD,buckingham  #关键字 Kevin^_^
+- DOMAIN-KEYWORD,gov  #关键字 Hetty^_^
+- DOMAIN-KEYWORD,planning  #关键字 Hetty^_^
+- DOMAIN-KEYWORD,merics  #关键字 sn
+- DOMAIN-KEYWORD,psecu  #关键字 林羞羞🌝
+- DOMAIN-KEYWORD,niuzaiexpress  #关键字 Maggie Lee
+- DOMAIN-KEYWORD,ubc  #关键字 Dentii
